@@ -38,6 +38,12 @@ Please find the solutions i can provide and help in case of issues.
 5.1) Shell Scripting
 5.2) Python
 
-Please send mail to : tekcons@outlook.com for queries.
+6) Serena Dimensions
+6.1) Installation, Upgradation.
+6.2) Support.
+6.3) Solutions.
+
+Please Visit : https://tekons.wixsite.com/tekons and tekons@outlook.com for solutions.
+
 
 
